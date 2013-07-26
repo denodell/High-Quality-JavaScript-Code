@@ -1,0 +1,5 @@
+# Ignore processed files
+.grunt
+node_modules
+reports
+docs

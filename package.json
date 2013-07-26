@@ -1,0 +1,14 @@
+{
+  "name": "high-quality-javascript-code",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-contrib-jasmine": "~0.5.1",
+    "grunt-template-jasmine-istanbul": "~0.2.4",
+    "grunt-complexity": "~0.1.3",
+    "grunt-contrib-yuidoc": "~0.4.0"
+  }
+}
