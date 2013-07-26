@@ -1,7 +1,7 @@
 High Quality JavaScript Code
 ============================
 
-Code example to go with Den Odell's presentation on High Quality JavaScript Code: https://www.slideshare.net/denodell/anoraks-highquality-java-script-code-for-sharing
+Code example to go with Den Odell's presentation on High Quality JavaScript Code: https://www.slideshare.net/denodell/highquality-javascript-code
 
 Files
 -----
