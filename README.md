@@ -24,6 +24,6 @@ Links
 -----
 * Node.js - http://nodejs.org
 * Grunt - http://gruntjs.com
-* Jasmine - http://pivotal.github.io/jasmine
+* Jasmine - https://jasmine.github.io/
 * Istanbul - http://gotwarlost.github.io/istanbul/
 * complexityReport.js - https://github.com/philbooth/complexityReport.js
